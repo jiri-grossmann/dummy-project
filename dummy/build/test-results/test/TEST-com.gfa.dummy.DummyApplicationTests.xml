@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.gfa.dummy.DummyApplicationTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-10-04T13:27:25" hostname="DESKTOP-QJ29SCJ" time="0.712">
+  <properties/>
+  <testcase name="contextLoads()" classname="com.gfa.dummy.DummyApplicationTests" time="0.712"/>
+  <system-out><![CDATA[15:27:24.456 [Test worker] INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils -- Could not detect default configuration classes for test class [com.gfa.dummy.DummyApplicationTests]: DummyApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+15:27:24.543 [Test worker] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper -- Found @SpringBootConfiguration com.gfa.dummy.DummyApplication for test class com.gfa.dummy.DummyApplicationTests
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::                (v3.1.4)
+
+2023-10-04T15:27:24.894+02:00  INFO 21500 --- [    Test worker] com.gfa.dummy.DummyApplicationTests      : Starting DummyApplicationTests using Java 19.0.1 with PID 21500 (started by George in C:\Users\George\Documents\IdeaProjects\dummy)
+2023-10-04T15:27:24.895+02:00  INFO 21500 --- [    Test worker] com.gfa.dummy.DummyApplicationTests      : No active profile set, falling back to 1 default profile: "default"
+2023-10-04T15:27:25.891+02:00  INFO 21500 --- [    Test worker] com.gfa.dummy.DummyApplicationTests      : Started DummyApplicationTests in 1.206 seconds (process running for 2.225)
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
